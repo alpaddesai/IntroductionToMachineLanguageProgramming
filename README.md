@@ -1,4 +1,4 @@
-# IntroductionToMachineLanguageProgramming
+# Introduction To Machine Language Programming
 
 The project is an introduction to machine language progrmaming with "How to Program C++/C# with Deitel".  
 Reference the program.cs for details. 
