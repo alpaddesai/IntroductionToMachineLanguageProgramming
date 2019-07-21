@@ -1,0 +1,11 @@
+C:\Users\ADG\source\repos\MachineLanguageProgramming\MachineLanguageProgramming\bin\Release\netcoreapp2.2\MachineLanguageProgramming.deps.json
+C:\Users\ADG\source\repos\MachineLanguageProgramming\MachineLanguageProgramming\bin\Release\netcoreapp2.2\MachineLanguageProgramming.runtimeconfig.json
+C:\Users\ADG\source\repos\MachineLanguageProgramming\MachineLanguageProgramming\bin\Release\netcoreapp2.2\MachineLanguageProgramming.runtimeconfig.dev.json
+C:\Users\ADG\source\repos\MachineLanguageProgramming\MachineLanguageProgramming\bin\Release\netcoreapp2.2\MachineLanguageProgramming.dll
+C:\Users\ADG\source\repos\MachineLanguageProgramming\MachineLanguageProgramming\bin\Release\netcoreapp2.2\MachineLanguageProgramming.pdb
+C:\Users\ADG\source\repos\MachineLanguageProgramming\MachineLanguageProgramming\obj\Release\netcoreapp2.2\MachineLanguageProgramming.csprojAssemblyReference.cache
+C:\Users\ADG\source\repos\MachineLanguageProgramming\MachineLanguageProgramming\obj\Release\netcoreapp2.2\MachineLanguageProgramming.csproj.CoreCompileInputs.cache
+C:\Users\ADG\source\repos\MachineLanguageProgramming\MachineLanguageProgramming\obj\Release\netcoreapp2.2\MachineLanguageProgramming.AssemblyInfoInputs.cache
+C:\Users\ADG\source\repos\MachineLanguageProgramming\MachineLanguageProgramming\obj\Release\netcoreapp2.2\MachineLanguageProgramming.AssemblyInfo.cs
+C:\Users\ADG\source\repos\MachineLanguageProgramming\MachineLanguageProgramming\obj\Release\netcoreapp2.2\MachineLanguageProgramming.dll
+C:\Users\ADG\source\repos\MachineLanguageProgramming\MachineLanguageProgramming\obj\Release\netcoreapp2.2\MachineLanguageProgramming.pdb
