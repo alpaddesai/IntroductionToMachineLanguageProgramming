@@ -1,9 +1,9 @@
 # Introduction To Machine Language Programming
 
-The project is an introduction to machine language programmming with "How to Program C++/C# with Deitel".  
-Reference the program.cs for details. 
+The project is an introduction to machine language programmming.  
+Reference the program.cs for details. Reference: "How to Program C++/C# with Deitel".
 
-/*  Introduction to Machine Language Programming How to program with Deitel
+/*  Introduction to Machine Language Programming 
 
  Simple Sum of Variables
 
