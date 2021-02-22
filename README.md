@@ -57,6 +57,7 @@ Display Variable is 90
 Display Variable is 76
 
     */
+    
     ![image](image.png)
     
 Additional details : https://github.com/alpaddesai/HardwareEngineeringLab4-
