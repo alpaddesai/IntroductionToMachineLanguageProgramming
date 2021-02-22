@@ -58,6 +58,6 @@ Display Variable is 76
 
     */
     
-    ![image](image.png)
+ ![image](image1.png)
     
 Additional details : https://github.com/alpaddesai/HardwareEngineeringLab4-
