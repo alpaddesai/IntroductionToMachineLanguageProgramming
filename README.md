@@ -62,4 +62,4 @@ Display Variable is 76
     
  ![image](image1.png)
     
-Additional details : https://github.com/alpaddesai/HardwareEngineeringLab4-
+Additional details : https://github.com/alpaddesai/DigitalLogicHDL and https://github.com/alpaddesai/HardwareEngineeringLab4-
