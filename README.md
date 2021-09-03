@@ -58,6 +58,9 @@ Display Variable is 76
 
     */
     
+## Algorithm
+  ![image](SimulationsPerformanceMetrics.jpg)
+    
  ## Ethics and Integrity
   ![image](EthicsandExcellence.png)
   
