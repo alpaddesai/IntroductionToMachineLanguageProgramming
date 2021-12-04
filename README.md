@@ -64,9 +64,4 @@ Display Variable is 76
  ## Ethics and Integrity
   ![image](EthicsandExcellence.png)
   
- ## Interest
-    
- ![image](image1.png)
- ![image](image_1.png)
-    
 Additional details : https://github.com/alpaddesai/DigitalLogicHDL and https://github.com/alpaddesai/HardwareEngineeringLab4-
